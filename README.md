@@ -1,0 +1,1 @@
+R script for all the analyses and visualizations presented in Undergraduate science instructors across the US revealing their LGBTQ+ identities in class benefited LGBTQ+ students and students with other marginalized identities mnauscript; csv file of de-identified student-level closed-ended responses
